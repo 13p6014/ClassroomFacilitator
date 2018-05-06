@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766603311784",
+    "firebase_url": "https://classroomfacilitator.firebaseio.com",
+    "project_id": "classroomfacilitator",
+    "storage_bucket": "classroomfacilitator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766603311784:android:6ff18481fcd8f8ff",
+        "android_client_info": {
+          "package_name": "com.example.aly.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766603311784-6o2ragev975hb0tc3hc5e127un5fjk39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aly.myapplication",
+            "certificate_hash": "1cba0f3d1c9ba4560a5c4118d28021655e99c703"
+          }
+        },
+        {
+          "client_id": "766603311784-ubfg9lvfhc52lejp1ri2djk5der9orhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowlVqOARadtkltjuXoYNDZQsvs-Abe1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766603311784-ubfg9lvfhc52lejp1ri2djk5der9orhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
